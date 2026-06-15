@@ -1,0 +1,37 @@
+header {
+    background-color: cyan;
+}
+h1 {
+    color:white
+}
+nav  { 
+    background-color: orange;
+}
+section  {  
+    background-color: yellow;
+}
+h2 { 
+    color:black
+}
+article { 
+    background-color: green;
+}
+h3 { 
+    color:black
+}
+
+p { 
+    color:black
+}
+aside  {  
+    background-color: purple;
+}
+h4 { 
+    color:white
+}
+footer  {  
+    background-color: darkslategrey;
+}
+h5 { 
+    color:white
+}
